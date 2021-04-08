@@ -5,6 +5,6 @@
 
 ## Introduction
 
-Its a fully functional eCommerce application using commerce.js. 
+Its a fully functional eCommerce application using Commerce.js, React, Stripe. 
 
 It uses concept of advanced React & JavaScript topics, as well as how to use Stripe for card transactions.
